@@ -22,7 +22,7 @@ Eagle is maintained, enhanced, and distributed freely by the Eagle community
 (which may have some degree of cross-membership with the Tcl community).  The
 home for the Eagle sources and the bug/patch database is:
 
-    https://eagle.to/cgi-bin/eagle
+[https://eagle.to/cgi-bin/eagle]
 
 with the Eagle web site hosted at:
 
